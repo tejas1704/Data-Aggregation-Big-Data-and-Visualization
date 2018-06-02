@@ -1,4 +1,4 @@
-# Hadoop
+# Hadoop Map Reduce
 
 This project involves,  
 (i) Data aggregation from more than one source(Twitter and NYTimes) using the APIs exposed by data sources  
